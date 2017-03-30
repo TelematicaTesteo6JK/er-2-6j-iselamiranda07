@@ -1,0 +1,11 @@
+1)	Se requiere calcular el importe total a facturar para los clientes de un proveedor de abarrotes:
+•	Si pagan con tarjeta gold tendrán un 15% de descuento.
+•	Si pagan con tarjeta silver tendrán un 5% de descuento.
+•	Si la tarjeta (gold o silver) es modalidad vip, tendrán un 5% de descuento.
+•	Los descuentos son acumulables.
+
+2)	2*2*2 = 8
+3)	3*3*3 = 27
+4)	De integración, porque en este caso ya se procesa la información y se hace una validación si el pago corresponde a gold, silver y si es vip.
+
+ 
